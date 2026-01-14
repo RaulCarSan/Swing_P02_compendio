@@ -1,10 +1,10 @@
-# Gestión de Apartamentos Andarax
+# JavaSwing Compendio 02
 
 ## Descripción del proyecto
 Aplicación de escritorio desarrollada en **Java Swing** para la gestión de apartamentos turísticos de la empresa ficticia.  
 Permite dar de alta pisos introduciendo datos del arrendador y del inmueble mediante una interfaz gráfica completa, accesible y validada.
 
-El proyecto ha sido realizado como práctica del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+El proyecto ha sido realizado como práctica del ciclo formativo de **Desarrollo de aplicaciones multiplataforma (DAM)**.
 
 ## Contenido de la publicación
 - Código fuente Java del proyecto
