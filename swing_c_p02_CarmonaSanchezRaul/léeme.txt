@@ -1,0 +1,12 @@
+-Descripcion-
+La aplicacion se usa para rellenar los datos de los arrendadores y los datos de los inmuebles de una empresa de alquileres de piso.
+
+Version: 1.0
+Autor:Raul Carmona Sanchez
+Fecha:29/11/2025
+
+Componente extra:
+He incorporado un componente JSlider, que consiste en una barra deslizadora gráfica ideal para que el usuario seleccione un valor numérico dentro de un rango acotado (en este caso, del 0 al 10) arrastrando un control.
+Para dotarlo de interactividad, hemos gestionado el evento ChangeListener, que se dispara cada vez que el estado del deslizador cambia, permitiendo actualizar en tiempo real una etiqueta de texto que traduce ese número a una descripción cualitativa del estado de conservación del piso, mejorando así la usabilidad y el feedback inmediato de la interfaz.
+
+
