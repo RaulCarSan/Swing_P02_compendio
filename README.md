@@ -13,8 +13,6 @@ El proyecto ha sido realizado como práctica del ciclo formativo de **Desarrollo
 - Ejecutable de la aplicación (JAR)
 - Fichero README con la documentación básica
 
----
-
 ## Desarrollo del proyecto
 La aplicación está compuesta por varias ventanas:
 
@@ -62,16 +60,12 @@ El precio mínimo se calcula automáticamente en función de:
 - **Nuevo**: limpia el formulario
 - **Guardar**: valida y guarda el registro
 
----
-
 ## Despliegue
 
 ### Windows
 1. Descargar el archivo `Swing_P02_Compendio.jar`
 2. Hacer doble clic sobre el archivo  
    *(es necesario tener Java instalado)*
-
----
 
 ### Línea de comandos
 1. Abrir una terminal o consola
