@@ -74,18 +74,18 @@ El precio mínimo se calcula automáticamente en función de:
    ```bash
    java -jar Swing_P02_Compendio.jar
    
-### Construido con
+## Construido con
 - Java SE
 - Swing
 - Eclipse IDE
 - Git
 - GitHub
 
-### Versionado
+## Versionado
 El proyecto utiliza **Git** como sistema de control de versiones.  
 Repositorio alojado en **GitHub**, permitiendo el seguimiento de cambios y la gestión del código fuente.
 
-### Autores
+## Autores
 - **Raúl Carmona Sánchez**
 
 ## Licencia
