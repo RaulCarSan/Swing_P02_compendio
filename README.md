@@ -6,8 +6,6 @@ Permite dar de alta pisos introduciendo datos del arrendador y del inmueble medi
 
 El proyecto ha sido realizado como práctica del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
----
-
 ## Contenido de la publicación
 - Código fuente Java del proyecto
 - Interfaces gráficas desarrolladas con Swing
